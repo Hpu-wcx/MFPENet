@@ -18,10 +18,10 @@ https://captain-whu.github.io/AID/
 * NWPU RESISC45:
 
 http://www.escience.cn/people/JunweiHan/NWPU-RESISC45.html
-datesets.py
+
 ## 4. Code execution environment
 python = 3.8.16
 
-torch = 1.10.0
+torch = 1.11.0
 
 cuda = 11.3
