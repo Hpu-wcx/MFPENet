@@ -3,7 +3,8 @@ code for Multistage Foreground-perception Enhancement Network for Remote-Sensing
 ## 1. Project name and introduction
 For the remote sensing scene classification task in complex background, we proposed a multistage foreground-perception enhancement network (MFPENet). The idea is to enhance the perception of foreground features so as to improve the classification accuracy.
 ## 2. Files
-model.py
+
+Our files are being updated.
 
 ## 3. Datasets
 
