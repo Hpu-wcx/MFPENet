@@ -5,7 +5,9 @@ For the remote sensing scene classification task in complex background, we propo
 ## 2. Files
 
  MFPENet.py
+ 
  confusionmatrix.py
+ 
  featuremaps_visualization.py
  
 ## 3. Datasets
