@@ -7,7 +7,6 @@ from simplecv.module import fpn
 import simplecv.module as scm
 
 
-
 class MDCModel(nn.Module):
     def __init__(self, input_channels, output_channels, dilation_rates, kernel_size):
         super(MDCModel, self).__init__()
